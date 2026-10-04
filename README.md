@@ -5,3 +5,4 @@
 *  [3D Python Game](https://github.com/Jebeandiah/math73project)
 * [Multiplayer Vehicle Building and Combat Game](https://www.youtube.com/playlist?list=PLJkxwL53R86E)
 *  [Clash Royale Matchup Predictor](https://github.com/Jebeandiah/Clash-Royale-Draft-Picker)
+*[FPGA/ESW Course](https://jebeandiah.github.io/hmc-e155-portfolio/labs.html)
